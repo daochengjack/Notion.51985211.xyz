@@ -22,7 +22,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: 'Zirconia Ceramic',
   HEO_HERO_TITLE_3: 'BLOG.QDCERAMIC.COM',
   HEO_HERO_TITLE_4: 'Corundum Mullite',
-  HEO_HERO_TITLE_5: 'Steatite',
+  HEO_HERO_TITLE_5: 'We manufacture and supply Industrial Ceramics',
   HEO_HERO_TITLE_LINK: 'https://qdceramic.com',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: 'Browsing',
