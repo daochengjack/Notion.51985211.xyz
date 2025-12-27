@@ -21,8 +21,8 @@ const CONFIG = {
   HEO_HERO_TITLE_1: 'Alumina Ceramic',
   HEO_HERO_TITLE_2: 'Zirconia Ceramic',
   HEO_HERO_TITLE_3: 'BLOG.QDCERAMIC.COM',
-  HEO_HERO_TITLE_4: 'Corundum Mullite',
-  HEO_HERO_TITLE_5: 'We manufacture and supply Industrial Ceramics',
+  HEO_HERO_TITLE_4: 'We manufacture and supply',
+  HEO_HERO_TITLE_5: 'Industrial Ceramics',
   HEO_HERO_TITLE_LINK: 'https://qdceramic.com',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: 'Browsing',
@@ -117,10 +117,10 @@ const CONFIG = {
   ],
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  HEO_SOCIAL_CARD_TITLE_1: '交流频道',
-  HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
-  HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
+  HEO_SOCIAL_CARD_TITLE_1: 'Contact Card',
+  HEO_SOCIAL_CARD_TITLE_2: 'Contact Person',
+  HEO_SOCIAL_CARD_TITLE_3: 'Jack Song',
+  HEO_SOCIAL_CARD_URL: 'info@qdceramic.com',
 
   // 底部统计面板文案
   HEO_POST_COUNT_TITLE: '文章数:',
