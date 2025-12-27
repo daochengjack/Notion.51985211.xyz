@@ -118,8 +118,8 @@ const CONFIG = {
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: 'Contact Card',
-  HEO_SOCIAL_CARD_TITLE_2: 'Contact Person',
-  HEO_SOCIAL_CARD_TITLE_3: 'Jack Song',
+  HEO_SOCIAL_CARD_TITLE_2: 'Contact Person: Jack Song',
+  HEO_SOCIAL_CARD_TITLE_3: 'Email: info@qdceramic.com',
   HEO_SOCIAL_CARD_URL: 'info@qdceramic.com',
 
   // 底部统计面板文案
